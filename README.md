@@ -1,15 +1,16 @@
-## 👋인사잘해팀 : HR(human resources)
-### 프로젝트 소개
-![인사잘해](https://media.discordapp.net/attachments/1303967846027755560/1316651649569132595/2024-12-12_3.23.22.png?ex=675bd2e7&is=675a8167&hm=eaf69c79a2c4b9311af7fc45d8d98b58633597eed4e75d7c6e4225e7b45b4f91&=&format=webp&quality=lossless&width=883&height=295)
-> 인사 및 근태 관리를 통합한 사내 HR ERP 프로그램!
+<h1 align="center">인사잘해 : HR-handlers</h1>
 
-본 프로젝트는 사내 인사 및 근태 관리를 효율화하기 위해 개발된 HR ERP 시스템입니다.
+### ⌘ About The Project
+<img width="1021" alt="스크린샷 2024-12-14 오전 5 57 44" src="https://github.com/user-attachments/assets/d4b97a5d-14ac-4738-8033-5a701300c7ce" />
+[인사잘해](http://34.47.90.224:3000/)
+
+> 인사 및 근태 관리를 통합한 사내 HR 프로그램 (2024.11.18 ~ 2024.12.13)
+
+본 프로젝트는 사내 인사 및 근태 관리를 효율화하기 위해 개발된 HR 시스템입니다.
 직원들은 사내 채팅, 휴가 신청, 출퇴근 기록, 게시판 활용, 급여 확인 등을 하나의 플랫폼에서 손쉽게 처리할 수 있습니다.
 관리자들은 직원 정보 및 근태를 체계적으로 관리할 수 있어 업무 생산성이 향상됩니다.
 
-[인사잘해](http://34.47.90.224:3000/)
-
-**접속 가능한 계정**
+**사원 계정**
 - 이상해 사원
   - **ID** : 20241216
   - **PW** : 123123123
@@ -21,12 +22,7 @@
 
 ---
 
-### 개발 기간
-- 2024.11.18 ~ 2024.12.13
-
----
-
-### 팀원 소개
+### 👥 Team
 | 이름 (Name) | 역할 (Role)  | 담당 도메인 (Domain) | 
   |-----------|------------|-----------------|
 | 정현        | 팀장 (Leader) | 사원              | 
@@ -37,66 +33,60 @@
 
 ---
 
-### 기술 스택
-- **Frontend** : React, Bootstrap, HTML, CSS, Javascript
-- **Backend** : Java, JPA, Spring Boot, Spring Security, JWT, Websocket, STOMP, MyBatis, QueryDSL
-- **Storage** : AWS S3, MariaDB
-- **Deployment**: GCP, Nginx
+### ⚙️ Tech Stack
+<img width="1281" alt="스크린샷 2024-12-14 오전 6 17 01" src="https://github.com/user-attachments/assets/2b471213-4ef5-4521-b8a8-4afaf77d34cb" />
 
 ---
 
-### 와이어프레임
-![와이어프레임](https://github.com/user-attachments/assets/794f6b45-ce24-4aec-a9ec-80a0aacc2d6e)
+### ⛓️‍💥 ERD
+<img width="1234" alt="스크린샷 2024-12-14 오전 6 17 33" src="https://github.com/user-attachments/assets/ca98c5ff-47ff-46d0-b23b-13fe236ab6df" />
 
 ---
 
-### ERD
-![ERD](https://github.com/user-attachments/assets/ef15cc51-089b-45a7-b704-e8ffe7cad939)
+### 📑 Web Pages
+
+</br>
+
+#### 홈
+<img width="852" alt="스크린샷 2024-12-14 오전 6 02 45" src="https://github.com/user-attachments/assets/d9ec1e27-99ca-4a06-b8a5-0b63d8e6a158" />
+
+</br>
+
+#### 사원
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 28" src="https://github.com/user-attachments/assets/fbe2fdad-3c74-4cf8-94f7-20a92b74a7c8" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 40" src="https://github.com/user-attachments/assets/72341ca3-ade6-407b-9c98-ce21c9ccacda" />
+
+</br>
+
+#### 근태
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 55" src="https://github.com/user-attachments/assets/7cf50f58-43ab-411a-829c-d3b78b73b01d" />
+
+</br>
+
+#### 일정
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 07" src="https://github.com/user-attachments/assets/fc396c76-653a-43f7-be30-ef04dfe85979" />
+
+</br>
+
+#### 휴가
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 02" src="https://github.com/user-attachments/assets/685c8063-437a-4d45-baa1-011e7cce6da9" />
+
+</br>
+
+#### 게시판
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 16" src="https://github.com/user-attachments/assets/a6e351d7-42ea-4872-944f-f8f4a33778dc" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 12" src="https://github.com/user-attachments/assets/ea8719bb-a7ab-40f1-8601-5b6f2738ecbf" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 23" src="https://github.com/user-attachments/assets/a3da7211-f716-4bb4-b20a-5a51b221474d" />
+
+</br>
+
+#### 메신저
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 08 47" src="https://github.com/user-attachments/assets/44169d6a-557b-4a93-b3a2-3f73074010a4" />
+
+</br>
+
+#### 급여
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 28" src="https://github.com/user-attachments/assets/8ea83bff-edff-4490-a77a-a37a2b47abe1" />
+<img width="1324" alt="스크린샷 2024-12-14 오전 6 09 32" src="https://github.com/user-attachments/assets/3ee15749-2a61-4bbd-9b30-a9754a0c2080" />
 
 ---
-
-### 📌주요 기능
-##### 홈
-![hr-handlers_10](/uploads/96bde8645c70d8ff101ab38ae247b9d2/hr-handlers_10.png)
-
-##### 사원
-![hr-handlers_11](/uploads/f55e53bcbeeb9280e5641cd56f05bc9c/hr-handlers_11.png)
-![hr-handlers_12](/uploads/028d8d267ceb355b9f8f0bae621f9b20/hr-handlers_12.png)
-
-##### 근태
-![hr-handlers_14](/uploads/989821c1f6e3b10b7a06b3ed0972f7f9/hr-handlers_14.png)
-
-##### 일정
-![hr-handlers_16](/uploads/93532b9c07a12a2720f113515ed8c331/hr-handlers_16.png)
-
-##### 휴가
-![hr-handlers_15](/uploads/92f5f5490bfdefb6879cac1c39fe1adb/hr-handlers_15.png)
-
-##### 게시판
-![hr-handlers_17](/uploads/0326688bab1e7fb138f0ec8f5fc2bde5/hr-handlers_17.png)
-![hr-handlers_18](/uploads/9d8d41f51815bb0332a1dad19d93bbe6/hr-handlers_18.png)
-![hr-handlers_19](/uploads/358251ab2d4dde40f8821acbec7062c7/hr-handlers_19.png)
-
-##### 메신저
-![hr-handlers_13](/uploads/218e2c0969772076db8d511d6424a349/hr-handlers_13.png)
-
-##### 급여
-![hr-handlers_20](/uploads/6afb8c6ae2140791ca2142fc70eee8b2/hr-handlers_20.png)
-![hr-handlers_21](/uploads/82a242f1a0df08fbf54aef40d3bfdbc7/hr-handlers_21.png)
-
----
-
-### 🚨트러블슈팅
-#### 출근/퇴근 시간이 서버시간과 다르게 9시간전으로 저장되는 이슈 
-**시도해본 것**
-1. Nginx 서버 시간 UTC -> KST 타임존 변경 
-  
-   - 서버 시간은 변경 되었지만, 동일한 문제 발생
-
-2. 데이터 베이스 시간 변경 
-   - 변경 시 오류가 없던 다른 도메인 시간대가 9시간 전으로 변경 되는 다른 문제 발생
-
-**해결 방법**
-
-시간대를 저장하는 Service 부분에 명시적으로 한국시간을 설정해주는 코드로 변경
-`LocalDateTime.now(ZoneId.of("Asia/Seoul"))`
