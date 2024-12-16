@@ -288,8 +288,6 @@ const MyPage = () => {
                     </div>
                 )}
 
-
-
                 {activeTab === "hr" && (
                     <div className="mypage-hr">
                         <div className="mypage-job-info">

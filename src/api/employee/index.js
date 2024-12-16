@@ -145,7 +145,6 @@ export const sendResetPasswordAPI = async (empNo, email) => {
                 access: localStorage.getItem("access_token"),
             },
         });
-        console.log("메일 전송 API 응답:", response.data);
         return response.data;
     } catch (error) {
         console.error("임시 비밀번호 전송 오류:", error.response?.data || error.message);
